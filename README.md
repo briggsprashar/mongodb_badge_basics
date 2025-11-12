@@ -15,3 +15,12 @@ Two key differences b/w a relational databases (e.g., MySQL) and non-relational/
 ## Healthcare Usecase of MongoDB
 
 > MongoDB suits managing electronic health records. EHR's have varied data types like notes, images, and results, and structured, semi-structured and unstructured data. MongoDB is flexible enough to easily handle changes and diverse data without costly migrations. Plus, MongoDB’s **replication** ensures availability, which is critical for patient care systems.
+
+<details>
+<summary>Conceptual Reinforcement</summary>
+
+This was a rush job. The correct selection is option 1 as it has the required validation documents. The selected one does not have the required documents and hence cannot validate; even when other elements are preset in it.
+
+![SchemaValidation_BSON](10_syntax_BSON.png)
+
+</details>
